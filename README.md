@@ -2,8 +2,9 @@
 **Interactive System Analysis & Design Learning Platform**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Play_Now-06b6d4?style=for-the-badge&logo=github)](https://miracunsal.github.io/campus-system-builder)
+![COM4061 Project](https://img.shields.io/badge/COM4061-Term_Project-8b5cf6?style=for-the-badge)
 
-An interactive, gamified learning platform developed to teach Software Engineering students the core concepts of **System Analysis and Design**. Originally developed for the COM4061 course, this project allows users to step into the role of a Junior System Analyst and architect a digital university campus from scratch.
+An interactive, gamified learning platform developed to teach Software Engineering students the core concepts of **System Analysis and Design**. I developed this platform as my official term project for the **COM4061** course. It allows users to step into the role of a Junior System Analyst and architect a digital university campus from scratch.
 
 ## 🚀 Live Demo
 You can experience the interactive platform directly from your browser (No installation required):
@@ -31,6 +32,6 @@ This project is engineered as a highly optimized, **single-file web application*
 4.  **Academic Report Generator:** Automatically compiles the user's architectural decisions and performance metrics into a printable, professional PDF summary.
 
 ## 👨‍💻 Developer
-**Ahmet Mirac Ünsal** *Computer Engineering Sophomore @ Istanbul Kultur University* *Passionate about Data Science, AI, and Low-Level System Architecture.*
+**Ahmet Mirac Ünsal** *Computer Engineering Sophomore | Aspiring Data Scientist & AI Engineer* Developed as a term project for the **COM4061 System Analysis and Design** curriculum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-mirac-ünsal-193931337/)
